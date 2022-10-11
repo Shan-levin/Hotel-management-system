@@ -1,10 +1,10 @@
-package com.example.hsm;
+package com.HotelManagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HsmApplicationTests {
+class HotelManagementApplicationTests {
 
 	@Test
 	void contextLoads() {
